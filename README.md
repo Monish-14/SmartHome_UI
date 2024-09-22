@@ -1,16 +1,13 @@
-# smarthome_ui
+# SmartHome_UI
 
-A new Flutter project.
+A Flutter project with a basic implementation of the Smart home UI with Switch and GridView .
 
-## Getting Started
+## Future advancements
 
-This project is a starting point for a Flutter application.
+More detailed features can be added and can be made responsive 
 
-A few resources to get you started if this is your first Flutter project:
+### Project Link 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Try me!!](https://monish-smarthome-ui.web.app)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
